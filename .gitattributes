@@ -1,0 +1,11 @@
+/_sass/vendor/font-awesome/_variables.scss filter=lfs diff=lfs merge=lfs -text
+/assets/fonts/academicons.svg filter=lfs diff=lfs merge=lfs -text
+/assets/fonts/academicons.woff filter=lfs diff=lfs merge=lfs -text
+/assets/webfonts/fa-brands-400.ttf filter=lfs diff=lfs merge=lfs -text
+/assets/webfonts/fa-brands-400.woff2 filter=lfs diff=lfs merge=lfs -text
+/assets/webfonts/fa-solid-900.ttf filter=lfs diff=lfs merge=lfs -text
+/assets/webfonts/fa-solid-900.woff2 filter=lfs diff=lfs merge=lfs -text
+/images/themes/homepage-air-dark.png filter=lfs diff=lfs merge=lfs -text
+/images/themes/homepage-air-light.png filter=lfs diff=lfs merge=lfs -text
+/images/themes/homepage-dark.png filter=lfs diff=lfs merge=lfs -text
+/images/themes/homepage-light.png filter=lfs diff=lfs merge=lfs -text
