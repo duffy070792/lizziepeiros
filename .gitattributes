@@ -9,3 +9,9 @@
 /images/themes/homepage-air-light.png filter=lfs diff=lfs merge=lfs -text
 /images/themes/homepage-dark.png filter=lfs diff=lfs merge=lfs -text
 /images/themes/homepage-light.png filter=lfs diff=lfs merge=lfs -text
+/files/BioMechSafeTraj.pdf filter=lfs diff=lfs merge=lfs -text
+/files/Biomechanical-Analysis-of-the-Slow-Twitch-Red-Muscle-Force-Transmission-Pathways-in-Tunas.pdf filter=lfs diff=lfs merge=lfs -text
+/files/HapticShoulder.pdf filter=lfs diff=lfs merge=lfs -text
+/files/Layer_Jamming_RAL_2017.pdf filter=lfs diff=lfs merge=lfs -text
+/files/MobAnlysSBLoc.pdf filter=lfs diff=lfs merge=lfs -text
+/files/NASU.pdf filter=lfs diff=lfs merge=lfs -text
