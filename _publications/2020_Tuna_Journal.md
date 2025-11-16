@@ -2,12 +2,12 @@
 title: "Biomechanical Analysis of the Slow-Twitch (Red) Muscle Force Transmission Pathways in Tuna"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020_Tuna_Journal
 excerpt: 'keywords: musculoskeletal anatomy, thunniform locomotion, tendon mechanical properties.'
 date: 2020-11-01
 venue: 'Physiological and Biochemical Zoology'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/files/Biomechanical-Analysis-of-the-Slow-Twitch-Red-Muscle-Force-Transmission-Pathways-in-Tunas.pdf.pdf'
+paperurl: 'https://academicpages.github.io/files/files/Biomechanical-Analysis-of-the-Slow-Twitch-Red-Muscle-Force-Transmission-Pathways-in-Tunas.pdf'
 bibtexurl: 'https://academicpages.github.io/files/TunaMuscle.bib'
 citation: 'Cromie Lear, Melinda J., et al. "Biomechanical analysis of the slow-twitch (red) muscle force transmission pathways in tunas." Physiological and Biochemical Zoology 93.3 (2020): 185-198.'
 ---
