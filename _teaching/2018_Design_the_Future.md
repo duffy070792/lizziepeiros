@@ -1,10 +1,10 @@
 ---
-title: "Stanford Splash Class: Solar Decalthon"
+title: "Design The Future: Summer Design Course"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-2
-venue: "University 1, Department"
-date: 2015-01-01
+type: "Highschool Summer Program"
+permalink: /teaching/2018_Design_the_Future
+venue: "Stanford Design School"
+date: 2023-01-01
 location: "Stanford, CA"
 ---
 

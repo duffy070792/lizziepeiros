@@ -16,3 +16,8 @@
 /files/MobAnlysSBLoc.pdf filter=lfs diff=lfs merge=lfs -text
 /files/NASU.pdf filter=lfs diff=lfs merge=lfs -text
 /images/IMG_7073.JPEG filter=lfs diff=lfs merge=lfs -text
+/files/WorkingCV.pdf filter=lfs diff=lfs merge=lfs -text
+/images/CoverPhoto.jpg filter=lfs diff=lfs merge=lfs -text
+/videos/ARCSnake_TB2.MP4 filter=lfs diff=lfs merge=lfs -text
+/videos/ARCSnake_V2.MP4 filter=lfs diff=lfs merge=lfs -text
+/videos/Legged_Robot.MP4 filter=lfs diff=lfs merge=lfs -text

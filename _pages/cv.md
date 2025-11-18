@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,35 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* UC San Diego, San Diego, CA                                              
+  * PhD Candidate in Electrical and Computer Engineering 2026 (expected)
+  * Dissertation Title: TBD
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Stanford University, Stanford, CA  	 
+  * MS Mechanical Engineering (+17 PhD units)
+  * Dynamics, Controls, Mechatronics, Design, and Manufacturing
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Stanford University,  Stanford, CA	 
+  * BS Biomechanical Engineering Biomedical
+  * Medical Devices, Biomechanics, and Bioengineering
+
+
+<object data = "/files/WorkingCV.pdf" type="application/pdf" width="100%">
+</object>
+
 
 Publications
 ======
