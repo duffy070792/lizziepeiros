@@ -1,5 +1,5 @@
 ---
-title: "ECE115: Rapid Prototyping"
+title: "ECE115: Fast Prototyping"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2023_UCSD_undergrad
@@ -8,13 +8,14 @@ date: 2023-01-01
 location: "San Diego, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Undergraduate/Graduate Course focused on quick electromechanical prototyping skills with emphasis on "requirements" (product definition).
 
-Heading 1
+ECE 115
 ======
 
-Heading 2
-======
+**Fast Prototyping**
 
-Heading 3
-======
+Lab-based course. Students will learn how to prototype a mechatronic solution. Topics include cheap/accessible materials and parts; suppliers; fast prototyping techniques; useful electronic sketches and system integration shortcuts. Students will learn to materialize their electromechanical ideas and make design decisions to minimize cost, improve functionality/robustness. Labs will culminate toward a fully functional robot prototype for demonstration.
+
+Instructor/s: Michael Yip
+
