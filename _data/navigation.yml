@@ -22,9 +22,12 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Mentoring"
+    url: /mentoring/
     
-  # - title: "CV"
-  #   url: /cv-json/
+  #- title: "CV"
+  #  url: /cv-json/
     
   #- title: "Guide"
   #  url: /markdown/
